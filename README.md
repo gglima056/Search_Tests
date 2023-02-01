@@ -1,6 +1,3 @@
 # Search_Tests
-Technical test for automation skill
-Web sites for the keyword search testing 
-https://www.google.com/
-https://br.yahoo.com/
-https://www.bing.com/
+Os arquivos que subi são apenas os mapeamentos de elementos de testes feito pelo SeleniumWeb driver, para execução dos casos é necessário acessar o projeto através do plugin no próprio navegador, sendo Chrome e FireFox,
+Estarei relembrando e criando o projeto utilizando o Eclipse com Java.
